@@ -14,7 +14,7 @@ BAD 👎:
 
 I need you to create a three stage approval process, based on when a Microsoft form is submitted, then it sends a Mail upon approval by everyone to the user
 
-![Copilot to create approval flows in powerautomate](samples/Create-a-multi-level-approval-in-powerautomate/assets/Copilot-Multi-Approval-Powerautomate.png)
+![Copilot to create approval flows in powerautomate](https://github.com/Steinsgame/copilot-prompts/blob/Steinsgame-Create-a-multi-level-approval-and-send-an-email-based-on-response/samples/Create-a-multi-level-approval-in-powerautomate/assets/Copilot-Multi-Approval-Powerautomate.png)
 
 
 <!--
