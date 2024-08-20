@@ -7,7 +7,7 @@
       "url": "https://github.com/pnp/copilot-prompts/tree/main/samples/github-adaptivecard-prompt",
       "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/copilot-prompts/tree/main/samples/github-adaptivecard-prompt",
       "longDescription": [
-        "Create adaptive card with fields mentioned in simple language using GitHub copilot which can be used in your application to display information in a card format."
+        "Create a multi-level approval flow, based on request from microsoft forms, and update the user on the response from all approvers, ."
       ],
       "creationDateTime": "2024-8-20",
       "updateDateTime": "2024-08-20",
@@ -20,8 +20,8 @@
         {
           "type": "image",
           "order": 100,
-          "url": "https://github.com/pnp/copilot-prompts/raw/main/samples/github-adaptivecard-prompt/assets/demo.gif",
-          "alt": "Prompt for generating adaptive card using GitHub copilot"
+          "url": "https://github.com/Steinsgame/copilot-prompts/blob/Steinsgame-Create-a-multi-level-approval-and-send-an-email-based-on-response/samples/Create-a-multi-level-approval-in-powerautomate/assets/Copilot-Multi-Approval-Powerautomate.png",
+          "alt": "Prompt for Creating Approval flows with Powerautomate"
         }
       ],
       "authors": [
@@ -33,9 +33,9 @@
       ],
       "references": [        
         {
-          "name": "GitHub Copilot",
-          "description": "GitHub Copilot",
-          "url": "https://copilot.github.com/"
+          "name": "Powerautomate Copilot",
+          "description": "Powerautomate Copilot",
+          "url": "https://www.microsoft.com/en-us/power-platform/products/power-automate"
         }
       ]
     }
