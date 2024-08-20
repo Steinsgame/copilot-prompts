@@ -16,6 +16,7 @@ I need you to create a three stage approval process, based on when a Microsoft f
 
 ![Copilot to create approval flows in powerautomate](samples/Create-a-multi-level-approval-in-powerautomate/assets/Copilot-Multi-Approval-Powerautomate.png)
 
+
 <!--
 Please provide a high-quality screenshot of the prompt in action. Include a screenshot of the prompt and its outcome.
 
