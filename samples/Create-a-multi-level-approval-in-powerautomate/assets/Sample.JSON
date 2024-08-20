@@ -1,18 +1,18 @@
 [
     {
-      "name": "copilotprompts-github-adaptivecard-prompt",
+      "name": "Prompt for Copilot to Create an Approval Process with Powerautomate",
       "source": "pnp",
-      "title": "Generate adaptive card using GitHub copilot",
-      "shortDescription": "Create adaptive card with fields mentioned in simple language using GitHub copilot",
+      "title": "Prompt for Copilot to Create an Approval Process with Powerautomate",
+      "shortDescription": "Create an Approval flow with Describe and design it (Copilot) in Powerautomate in easy steps",
       "url": "https://github.com/pnp/copilot-prompts/tree/main/samples/github-adaptivecard-prompt",
       "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/copilot-prompts/tree/main/samples/github-adaptivecard-prompt",
       "longDescription": [
         "Create adaptive card with fields mentioned in simple language using GitHub copilot which can be used in your application to display information in a card format."
       ],
-      "creationDateTime": "2024-04-29",
-      "updateDateTime": "2024-04-29",
+      "creationDateTime": "2024-8-20",
+      "updateDateTime": "2024-08-20",
       "products": [
-        "GitHub Copilot"
+        "Copilot Powerautomate"
       ],
       "metadata": [
       ],
@@ -26,9 +26,9 @@
       ],
       "authors": [
         {
-          "gitHubAccount": "rabwill",
+          "gitHubAccount": "steinsgame",
           "pictureUrl": "https://avatars.githubusercontent.com/u/20379311?v=4",
-          "name": "Rabia Williams"
+          "name": "Joseph Fadero"
         }
       ],
       "references": [        
