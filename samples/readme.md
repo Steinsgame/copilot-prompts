@@ -1,4 +1,4 @@
-# Title of the sample
+# Prompt for Copilot to Create an Approval Process with Powerautomate
 
 <!--
 This is how you want the sample to appear in the samples browser.
@@ -12,7 +12,7 @@ BAD 👎:
 
 ## Summary
 
-Short summary on the contents of the sample. What does the prompt help the user achieve? In which copilot experience is it meant to be used?
+I need you to create a three stage approval process, based on when a Microsoft form is submitted, then it sends a Mail upon approval by everyone to the user
 
 <!--
 Please provide a high-quality screenshot of the prompt in action. Include a screenshot of the prompt and its outcome.
@@ -33,18 +33,17 @@ Provide a link to your GitHub profile to help others find more cool things you h
 If you want to provide links to your social media, blog, and employer name, make sure to update your GitHub profile.
 -->
 
-* [Author Name](LinkToYourGitHubProfile)
+* [Joseph Fadero](https://github.com/Steinsgame)
 
 ## Version history
 
 Version|Date|Comments
 -------|----|--------
-1.1|November 1, 2022|Update comment
-1.0|October 29, 2022|Initial release
+1.0|August 20, 2024|Initial release
 
 ## Prerequisites
 
-* [Copilot for Microsoft 365](https://developer.microsoft.com/microsoft-365/dev-program)
+* [Copilot for Powerautomate](https://developer.microsoft.com/microsoft-365/dev-program)
 
 ## Help
 
